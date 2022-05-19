@@ -72,45 +72,6 @@ body {
     color: white;
 }
 
-footer {
-    padding: 20px;
-    background-color: #3b7fff;
-    font-size: 14px;
-}
-
-footer a {
-    text-decoration: none;
-    color: #fff;
-    padding: 30px 25px;
-}
-
-h4 {
-    color: #fff;
-    padding: 20px 0px;
-    font-size: 14px;
-    border-right: 2px solid #fff;
-}
-
-h4:nth-of-type(1) {
-    border-left: 2px solid #fff;
-}
-
-.links {
-    align-items: center;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-
-
-}
-
-.titulo-final {
-    color: #fff;
-    text-align: center;
-    font-size: 14px;
-    padding: 25px 0px 0px 0px;
-}
-
 .card-container {
     display: flex;
     justify-content: center;
